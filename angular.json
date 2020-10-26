@@ -107,6 +107,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "super-dynamic"
+    }
+  },
+  "defaultProject": "super-dynamic",
+  "cli": {
+    "analytics": false
+  }
 }
